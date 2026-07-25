@@ -1,0 +1,16 @@
+# 스킬 메타 (기계용) — 규격: spec/skill-package.md
+name: my-skill-name            # kebab-case, 폴더명과 동일
+version: 0.1.0
+type: generate                 # generate | review | extract | transform
+summary: 한 줄 요약
+origin:
+  kind: first_party            # first_party | forked
+  source_url:                  # forked면 필수
+  upstream_commit:
+  license: MIT
+targets: [claude, codex, gemini]
+inputs: []
+outputs: []
+conflicts: []                  # 동시 주입 금지 스킬 이름
+order: standalone              # standalone | after:<skill> | before:<skill>
+validation: []
