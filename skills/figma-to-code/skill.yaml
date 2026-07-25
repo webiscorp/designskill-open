@@ -1,0 +1,13 @@
+name: figma-to-code
+version: upstream
+type: transform
+summary: "Generate production-ready React/Next.js code from Figma designs. Instructs proper Figma MCP tool usage, component reuse strategies, and variant mapping. **CRITI"
+origin:
+  kind: forked
+  source_url: https://github.com/scoobynko/claude-code-design-skills/tree/main/figma-to-code
+  upstream_commit: ccb4c17d672f410754f139524a185b619872d60e
+  imported_at: 2026-07-25
+  license: MIT
+targets: [claude, codex, gemini]
+conflicts: []
+order: standalone

@@ -1,0 +1,13 @@
+name: swiftui-design
+version: upstream
+type: generate
+summary: "SwiftUI frontend visual design skill. Creates beautiful, distinctive iOS/macOS interfaces that avoid generic AI slop patterns. Covers design direction, layout s"
+origin:
+  kind: forked
+  source_url: https://github.com/wholiver/swiftui-design-skill/tree/main/.
+  upstream_commit: 2c82638ebd3c801d9d2d12b5f2d6c20495939995
+  imported_at: 2026-07-25
+  license: MIT
+targets: [claude, codex, gemini]
+conflicts: []
+order: standalone

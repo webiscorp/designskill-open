@@ -1,0 +1,13 @@
+name: web-artifacts-builder
+version: upstream
+type: generate
+summary: "Suite of tools for creating elaborate, multi-component claude.ai HTML artifacts using modern frontend web technologies (React, Tailwind CSS, shadcn/ui). Use for"
+origin:
+  kind: forked
+  source_url: https://github.com/anthropics/skills/tree/main/skills/web-artifacts-builder
+  upstream_commit: b29e7cf65e5cb78a5ac33d582270551bc74a14eb
+  imported_at: 2026-07-25
+  license: Apache-2.0
+targets: [claude, codex, gemini]
+conflicts: []
+order: standalone

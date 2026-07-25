@@ -1,0 +1,13 @@
+name: web-asset-generator
+version: upstream
+type: generate
+summary: "Generate web assets including favicons, app icons (PWA), and social media meta images (Open Graph) for Facebook, Twitter, WhatsApp, and LinkedIn. Use when users"
+origin:
+  kind: forked
+  source_url: https://github.com/alonw0/web-asset-generator/tree/main/skills/web-asset-generator
+  upstream_commit: c6d56dc54ab86eae4eeb1393d9c8cdc71ae8d1a8
+  imported_at: 2026-07-25
+  license: MIT
+targets: [claude, codex, gemini]
+conflicts: []
+order: standalone

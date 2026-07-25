@@ -1,0 +1,13 @@
+name: design-elevation
+version: upstream
+type: transform
+summary: "Comprehensive design elevation system that automatically transforms functional visual outputs into polished, professional designs. Use when creating ANY visual "
+origin:
+  kind: forked
+  source_url: https://github.com/cuellarfr/design-skills/tree/main/design-elevation
+  upstream_commit: b4283763053760b079485a8956aac96f7910da02
+  imported_at: 2026-07-25
+  license: MIT
+targets: [claude, codex, gemini]
+conflicts: []
+order: standalone

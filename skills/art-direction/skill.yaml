@@ -1,0 +1,13 @@
+name: art-direction
+version: upstream
+type: generate
+summary: "\"Direct visual and creative work for campaigns, photography, illustration, video, and branded experiences. Use this skill whenever the user wants to brief a pho"
+origin:
+  kind: forked
+  source_url: https://github.com/rampstackco/claude-skills/tree/main/skills/art-direction
+  upstream_commit: e42ec5af1bd2b504325098bf6bb1400c11a6c512
+  imported_at: 2026-07-25
+  license: MIT
+targets: [claude, codex, gemini]
+conflicts: []
+order: standalone

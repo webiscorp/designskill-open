@@ -1,0 +1,13 @@
+name: algorithmic-art
+version: upstream
+type: generate
+summary: "Creating algorithmic art using p5.js with seeded randomness and interactive parameter exploration. Use this when users request creating art using code, generati"
+origin:
+  kind: forked
+  source_url: https://github.com/anthropics/skills/tree/main/skills/algorithmic-art
+  upstream_commit: b29e7cf65e5cb78a5ac33d582270551bc74a14eb
+  imported_at: 2026-07-25
+  license: Apache-2.0
+targets: [claude, codex, gemini]
+conflicts: []
+order: standalone

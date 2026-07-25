@@ -1,0 +1,13 @@
+name: logo-design
+version: upstream
+type: generate
+summary: "\"Generate logo variants for a brand, producing multiple production-grade marks across different architectures (wordmark, lockup, symbol-only, letterform-as-symb"
+origin:
+  kind: forked
+  source_url: https://github.com/rampstackco/claude-skills/tree/main/skills/logo-design
+  upstream_commit: e42ec5af1bd2b504325098bf6bb1400c11a6c512
+  imported_at: 2026-07-25
+  license: MIT
+targets: [claude, codex, gemini]
+conflicts: []
+order: standalone

@@ -1,0 +1,13 @@
+name: cinematic-ui
+version: upstream
+type: generate
+summary: "Design and build websites with film-inspired visual systems, director-driven art direction, storyboard-first layout planning, and cinematic motion. Use when the"
+origin:
+  kind: forked
+  source_url: https://github.com/akseolabs-seo/cinematic-ui/tree/main/.
+  upstream_commit: 24a66c1d6140c21ec0d0e4d9ef663a97264003de
+  imported_at: 2026-07-25
+  license: MIT
+targets: [claude, codex, gemini]
+conflicts: []
+order: standalone

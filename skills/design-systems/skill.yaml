@@ -1,0 +1,13 @@
+name: design-systems
+version: upstream
+type: generate
+summary: "Build, document, and maintain design systems with design tokens, component specifications, pattern libraries, naming conventions, and governance processes. Cond"
+origin:
+  kind: forked
+  source_url: https://github.com/cuellarfr/design-skills/tree/main/design-systems
+  upstream_commit: b4283763053760b079485a8956aac96f7910da02
+  imported_at: 2026-07-25
+  license: MIT
+targets: [claude, codex, gemini]
+conflicts: []
+order: standalone

@@ -1,0 +1,13 @@
+name: brand-style-guide
+version: upstream
+type: generate
+summary: "\"Build or audit a comprehensive brand style guide that documents the full brand system including story, logo system, color, typography, imagery, voice, applicat"
+origin:
+  kind: forked
+  source_url: https://github.com/rampstackco/claude-skills/tree/main/skills/brand-style-guide
+  upstream_commit: e42ec5af1bd2b504325098bf6bb1400c11a6c512
+  imported_at: 2026-07-25
+  license: MIT
+targets: [claude, codex, gemini]
+conflicts: []
+order: standalone

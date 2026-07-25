@@ -1,0 +1,13 @@
+name: frontend-slides
+version: upstream
+type: generate
+summary: "Create stunning, animation-rich HTML presentations from scratch or by converting PowerPoint files. Use when the user wants to build a presentation, convert a PP"
+origin:
+  kind: forked
+  source_url: https://github.com/zarazhangrui/frontend-slides/tree/main/.
+  upstream_commit: 9906a34d640d2111f724544cbc50f7f130569ae1
+  imported_at: 2026-07-25
+  license: MIT
+targets: [claude, codex, gemini]
+conflicts: []
+order: standalone

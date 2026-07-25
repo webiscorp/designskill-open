@@ -1,0 +1,13 @@
+name: styleseed-design-review
+version: upstream
+type: review
+summary: "Reviews UI/frontend code and tells you exactly why it \"looks AI-generated\" — then how to fix it. Use it when a React/Tailwind/HTML interface looks off, generic,"
+origin:
+  kind: forked
+  source_url: https://github.com/bitjaru/styleseed/tree/main/skills/styleseed-design-review
+  upstream_commit: 356ac3aa184595525da3a4e1d9f1c7fe92812da6
+  imported_at: 2026-07-25
+  license: MIT
+targets: [claude, codex, gemini]
+conflicts: []
+order: standalone

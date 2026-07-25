@@ -1,0 +1,13 @@
+name: extract-design-system
+version: upstream
+type: extract
+summary: "Extract design primitives from a public website and generate starter token files for your project."
+origin:
+  kind: forked
+  source_url: https://github.com/arvindrk/extract-design-system/tree/main/skills/extract-design-system
+  upstream_commit: 1873741ba8dea755e35e6e15134f7918cd58e036
+  imported_at: 2026-07-25
+  license: MIT
+targets: [claude, codex, gemini]
+conflicts: []
+order: standalone

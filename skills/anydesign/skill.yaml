@@ -1,0 +1,13 @@
+name: anydesign
+version: upstream
+type: extract
+summary: "\"Analyze images, websites, and Figma files to extract their design and generate a `design.md` with token system, component inventory, and reconstruction notes. "
+origin:
+  kind: forked
+  source_url: https://github.com/uxKero/anydesign/tree/main/.
+  upstream_commit: 1b478809c3ccfebae558d93e4cc719e27f18bc0a
+  imported_at: 2026-07-25
+  license: MIT
+targets: [claude, codex, gemini]
+conflicts: []
+order: standalone
