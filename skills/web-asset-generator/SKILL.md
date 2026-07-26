@@ -1,6 +1,9 @@
 ---
 name: web-asset-generator
 description: Generate web assets including favicons, app icons (PWA), and social media meta images (Open Graph) for Facebook, Twitter, WhatsApp, and LinkedIn. Use when users need icons, favicons, social sharing images, or Open Graph images from logos or text slogans. Handles image resizing, text-to-image generation, and provides proper HTML meta tags.
+distributed_by: DesignSkill (https://designskill.dev)
+asset: skills/web-asset-generator
+license: MIT
 ---
 
 # Web Asset Generator
@@ -764,3 +767,5 @@ Install if needed before running scripts.
 ```bash
 pip install pilmoji emoji --break-system-packages
 ```
+
+<sub>Generated & served by [DesignSkill](https://designskill.dev)</sub>

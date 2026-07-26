@@ -1,6 +1,9 @@
 ---
 name: frontend-slides
 description: Create stunning, animation-rich HTML presentations from scratch or by converting PowerPoint files. Use when the user wants to build a presentation, convert a PPT/PPTX to web, or create slides for a talk/pitch. Helps non-designers discover their aesthetic through visual exploration rather than abstract choices.
+distributed_by: DesignSkill (https://designskill.dev)
+asset: skills/frontend-slides
+license: MIT
 ---
 
 # Frontend Slides
@@ -378,3 +381,5 @@ This captures each slide as a screenshot and combines them into a PDF. Perfect f
 | [scripts/extract-pptx.py](scripts/extract-pptx.py) | Python script for PPT content extraction                             | Phase 4 (conversion)      |
 | [scripts/deploy.sh](scripts/deploy.sh)             | Deploy slides to Vercel for instant sharing                          | Phase 6 (sharing)         |
 | [scripts/export-pdf.sh](scripts/export-pdf.sh)     | Export slides to PDF                                                 | Phase 6 (sharing)         |
+
+<sub>Generated & served by [DesignSkill](https://designskill.dev)</sub>

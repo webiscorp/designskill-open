@@ -1,6 +1,9 @@
 ---
 name: Design Systems
 description: Build, document, and maintain design systems with design tokens, component specifications, pattern libraries, naming conventions, and governance processes. Conduct system audits, define component hierarchies, and establish shared design languages.
+distributed_by: DesignSkill (https://designskill.dev)
+asset: skills/design-systems
+license: MIT
 ---
 
 # Design Systems
@@ -243,3 +246,5 @@ Load these for deeper guidance on specific topics:
 
 - `examples/system-audit-walkthrough.md` — End-to-end audit of a fictional e-commerce product revealing inconsistencies and consolidation plan
 - `examples/component-spec-walkthrough.md` — Specifying a Card component from purpose through accessibility
+
+<sub>Generated & served by [DesignSkill](https://designskill.dev)</sub>

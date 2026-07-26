@@ -12,6 +12,9 @@ description: >-
   "analyze design", "design tokens from reference", "generate design from JSON",
   "design system from screenshot", "design profile", "style guide JSON",
   "visual effects analysis", "design with effects", "3d design analysis".
+distributed_by: DesignSkill (https://designskill.dev)
+asset: skills/design-dna
+license: MIT
 ---
 
 # Design DNA
@@ -102,3 +105,5 @@ Users may invoke any combination:
 - **Phase 3 only**: User already has DNA JSON
 
 Detect which phase(s) are needed from context and execute accordingly.
+
+<sub>Generated & served by [DesignSkill](https://designskill.dev)</sub>

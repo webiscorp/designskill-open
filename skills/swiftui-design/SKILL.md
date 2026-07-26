@@ -5,6 +5,8 @@ license: MIT
 metadata:
   author: wholiver
   version: "1.0.0"
+distributed_by: DesignSkill (https://designskill.dev)
+asset: skills/swiftui-design
 ---
 
 # SwiftUI Design Skill
@@ -268,3 +270,5 @@ Before considering any SwiftUI design complete, verify:
 - [ ] Minimum 44×44pt tap targets
 - [ ] No `GeometryReader` or `UIScreen.main.bounds`
 - [ ] 5-Dimension Review score ≥ 7/10 on all dimensions
+
+<sub>Generated & served by [DesignSkill](https://designskill.dev)</sub>

@@ -1,6 +1,9 @@
 ---
 name: design-elevation
 description: Comprehensive design elevation system that automatically transforms functional visual outputs into polished, professional designs. Use when creating ANY visual output including presentations (pptx), spreadsheets (xlsx), dashboards, reports, HTML artifacts, PDFs, web pages, or data visualizations. Applies systematic design thinking grounded in Tailwind CSS as the canonical design token system. Structures decisions through functional patterns (what users interact with) and perceptual patterns (how the design feels), following Alla Kholmatova's design systems framework. Triggers on ALL requests for visual content creation, ensuring outputs look hand-crafted rather than template-based.
+distributed_by: DesignSkill (https://designskill.dev)
+asset: skills/design-elevation
+license: MIT
 ---
 
 # Design Elevation System
@@ -217,3 +220,5 @@ Every delivered visual should:
 Unless explicitly asked, apply all design thinking internally. The user sees only the polished result. Document design decisions in code comments for HTML/CSS, or in speaker notes for presentations, but don't explain the process unless requested.
 
 Great design is invisible when done right. The user should feel the quality without seeing the effort.
+
+<sub>Generated & served by [DesignSkill](https://designskill.dev)</sub>

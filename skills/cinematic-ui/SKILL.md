@@ -1,6 +1,9 @@
 ---
 name: cinematic-ui
 description: Design and build websites with film-inspired visual systems, director-driven art direction, storyboard-first layout planning, and cinematic motion. Use when the user asks for a cinematic site, movie-style landing page, director-inspired UI, film-noir, sci-fi, romance, thriller, action, animation, or a movie-like website aesthetic, including requests phrased in Chinese. Do not use for generic web design unless the user explicitly wants a film or director reference.
+distributed_by: DesignSkill (https://designskill.dev)
+asset: skills/cinematic-ui
+license: MIT
 ---
 
 # Cinematic Layout
@@ -268,3 +271,5 @@ Keep `SKILL.md` lean. Load only the references needed for the current phase.
 - Use [references/premium-calibration.md](references/premium-calibration.md) to decide what makes the page feel expensive without breaking the cinematic concept.
 - Use [references/reference-protocol.md](references/reference-protocol.md) when the user provides visual references but wants to avoid template copying.
 - Use [references/anti-garbage.md](references/anti-garbage.md) as the final filter before coding.
+
+<sub>Generated & served by [DesignSkill](https://designskill.dev)</sub>

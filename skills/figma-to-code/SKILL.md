@@ -1,6 +1,9 @@
 ---
 name: figma-to-code
 description: Generate production-ready React/Next.js code from Figma designs. Instructs proper Figma MCP tool usage, component reuse strategies, and variant mapping. **CRITICAL: ALWAYS use this skill when user provides a Figma link or mentions implementing/redesigning from Figma design.** Never attempt manual implementation without invoking this skill first.
+distributed_by: DesignSkill (https://designskill.dev)
+asset: skills/figma-to-code
+license: MIT
 ---
 
 # Figma to Code Generator
@@ -404,3 +407,5 @@ Examples include:
 **When no component matches:** Document why existing don't work, ask user: extend or create new?
 
 **When backend requirements unclear:** Document API shape in JSDoc, use TypeScript interfaces, provide mock data
+
+<sub>Generated & served by [DesignSkill](https://designskill.dev)</sub>

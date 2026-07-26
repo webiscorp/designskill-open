@@ -1,6 +1,9 @@
 ---
 name: Design Critique & Evaluation
 description: Evaluate UI designs against usability heuristics, UX laws, interaction patterns, interaction design principles, information architecture, and content quality. Conduct heuristic evaluations, structured design critiques, pattern-based reviews, posture analysis, excise audits, IA evaluations, and UX writing reviews. Provides specific, actionable feedback grounded in established principles rather than subjective opinion.
+distributed_by: DesignSkill (https://designskill.dev)
+asset: skills/design-critique
+license: MIT
 ---
 
 # Design Critique & Evaluation
@@ -530,3 +533,5 @@ Use during design reviews. Each item maps to a specific principle.
 - `examples/critique-walkthrough.md` — End-to-end critique of a fictional SaaS dashboard
 - `examples/common-design-problems.md` — Pattern recognition guide with before/after analysis
 - `examples/pattern-selection-walkthrough.md` — End-to-end pattern selection and interaction design evaluation for a task creation flow
+
+<sub>Generated & served by [DesignSkill](https://designskill.dev)</sub>

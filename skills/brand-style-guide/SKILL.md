@@ -4,6 +4,9 @@ description: "Build or audit a comprehensive brand style guide that documents th
 category: brand
 catalog_summary: "The canonical reference document for the full brand system"
 display_order: 3
+distributed_by: DesignSkill (https://designskill.dev)
+asset: skills/brand-style-guide
+license: MIT
 ---
 
 # Brand Style Guide
@@ -200,3 +203,5 @@ For consumer-facing presentation, build a web page version that imports from the
 
 - [`references/style-guide-template.md`](references/style-guide-template.md) - Fillable section-by-section template.
 - [`references/maintenance-playbook.md`](references/maintenance-playbook.md) - How to keep the guide current after launch.
+
+<sub>Generated & served by [DesignSkill](https://designskill.dev)</sub>

@@ -4,6 +4,9 @@ description: "Direct visual and creative work for campaigns, photography, illust
 category: design
 catalog_summary: "Photography, illustration, and visual direction for campaigns"
 display_order: 3
+distributed_by: DesignSkill (https://designskill.dev)
+asset: skills/art-direction
+license: MIT
 ---
 
 # Art Direction
@@ -196,3 +199,5 @@ Plus a separate moodboard or visual reference doc with images.
 - [`references/creative-brief-template.md`](references/creative-brief-template.md) - Generic art direction brief template covering any production type (photo, illustration, video, animation, mixed).
 - [`references/photo-shoot-brief.md`](references/photo-shoot-brief.md) - Detailed brief template for photography commissions.
 - [`references/illustration-brief.md`](references/illustration-brief.md) - Brief template for illustration commissions.
+
+<sub>Generated & served by [DesignSkill](https://designskill.dev)</sub>

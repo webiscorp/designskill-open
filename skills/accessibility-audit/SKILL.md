@@ -1,6 +1,9 @@
 ---
 name: Accessibility Audit
 description: Conduct accessibility audits against WCAG 2.2 guidelines. Evaluate pages, components, and flows for conformance at A, AA, and AAA levels. Identify issues, assess severity, provide code fixes, and generate audit reports. Covers automated testing, manual testing, keyboard navigation, screen reader compatibility, color contrast, and semantic HTML.
+distributed_by: DesignSkill (https://designskill.dev)
+asset: skills/accessibility-audit
+license: MIT
 ---
 
 # Accessibility Audit
@@ -270,3 +273,5 @@ Use this during pull requests to catch issues before they ship.
 
 - `examples/audit-walkthrough.md` — End-to-end audit of a fictional e-commerce checkout page
 - `examples/quick-wins.md` — The fixes that solve the most common accessibility problems with minimal effort
+
+<sub>Generated & served by [DesignSkill](https://designskill.dev)</sub>

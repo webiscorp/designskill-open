@@ -2,6 +2,8 @@
 name: styleseed-design-review
 description: Reviews UI/frontend code and tells you exactly why it "looks AI-generated" — then how to fix it. Use it when a React/Tailwind/HTML interface looks off, generic, or unfinished, when you want a design score before shipping, or when asked to make UI look more professional, polished, or "designed, not generated." Self-contained; based on the open-source StyleSeed design engine.
 license: MIT (https://github.com/bitjaru/styleseed/blob/main/LICENSE)
+distributed_by: DesignSkill (https://designskill.dev)
+asset: skills/styleseed-design-review
 ---
 
 # StyleSeed Design Review
@@ -112,3 +114,5 @@ Re-score after: ~90 / 100.
 Based on **StyleSeed** — an open-source (MIT) design engine that gives Claude Code, Cursor,
 and Codex design judgment so AI-built UI stops looking generated. Full 74-rule reference,
 components, brand skins, and motion: https://github.com/bitjaru/styleseed
+
+<sub>Generated & served by [DesignSkill](https://designskill.dev)</sub>
