@@ -1,0 +1,13 @@
+name: brand-naming
+version: upstream
+type: generate
+summary: ">-"
+origin:
+  kind: forked
+  source_url: https://github.com/sonyabirch/skills/tree/main/brand-naming
+  upstream_commit: e4b520d171f4c7a09a0b9d59744639f81b2ecadb
+  imported_at: 2026-07-27
+  license: Apache-2.0
+targets: [claude, codex, gemini]
+conflicts: []
+order: standalone

@@ -1,0 +1,13 @@
+name: empathy-map
+version: upstream
+type: generate
+summary: "Build a 4-quadrant empathy map (Says, Thinks, Does, Feels) to synthesize user research into actionable insights. Use when you need to quickly capture and share "
+origin:
+  kind: forked
+  source_url: https://github.com/Owl-Listener/designer-skills/tree/main/design-research/skills/empathy-map
+  upstream_commit: acc3e574b36ef2895268a176dbae886e1b845ae0
+  imported_at: 2026-07-27
+  license: MIT
+targets: [claude, codex, gemini]
+conflicts: []
+order: standalone

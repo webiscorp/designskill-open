@@ -1,0 +1,13 @@
+name: motion-animation
+version: upstream
+type: generate
+summary: "Interface motion and animation — the 12 principles of animation applied to UI, easing and spring physics (ease-out entrances / ease-in exits), the FLIP techniqu"
+origin:
+  kind: forked
+  source_url: https://github.com/jpoindexter/design-engineering-canon/tree/main/skills/dec-motion-animation
+  upstream_commit: 0d859810dd95e109f4bb3c81d226a0070c26fa9e
+  imported_at: 2026-07-27
+  license: MIT
+targets: [claude, codex, gemini]
+conflicts: []
+order: standalone

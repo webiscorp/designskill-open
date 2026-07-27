@@ -1,0 +1,13 @@
+name: design-qa-checklist
+version: upstream
+type: generate
+summary: "Create QA checklists for verifying design implementation accuracy."
+origin:
+  kind: forked
+  source_url: https://github.com/Owl-Listener/designer-skills/tree/main/design-ops/skills/design-qa-checklist
+  upstream_commit: acc3e574b36ef2895268a176dbae886e1b845ae0
+  imported_at: 2026-07-27
+  license: MIT
+targets: [claude, codex, gemini]
+conflicts: []
+order: standalone

@@ -1,0 +1,13 @@
+name: cognitive-load
+version: upstream
+type: generate
+summary: "Cognitive Load Theory for interfaces — intrinsic (task difficulty), extraneous (poor-design overhead), and germane (useful mental-model building) load. Use when"
+origin:
+  kind: forked
+  source_url: https://github.com/jpoindexter/design-engineering-canon/tree/main/skills/dec-cognitive-load
+  upstream_commit: 0d859810dd95e109f4bb3c81d226a0070c26fa9e
+  imported_at: 2026-07-27
+  license: MIT
+targets: [claude, codex, gemini]
+conflicts: []
+order: standalone
