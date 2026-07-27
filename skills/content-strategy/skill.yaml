@@ -1,0 +1,13 @@
+name: content-strategy
+version: upstream
+type: generate
+summary: "When the user wants to plan a content strategy, decide what content to create, or figure out what topics to cover. Also use when the user mentions \"content stra"
+origin:
+  kind: forked
+  source_url: https://github.com/coreyhaines31/marketingskills/tree/main/skills/content-strategy
+  upstream_commit: c21a984a56da10fb6085e6334f6f60929220a4da
+  imported_at: 2026-07-27
+  license: MIT
+targets: [claude, codex, gemini]
+conflicts: []
+order: standalone

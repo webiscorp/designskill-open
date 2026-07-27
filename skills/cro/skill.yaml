@@ -1,0 +1,13 @@
+name: cro
+version: upstream
+type: generate
+summary: "\"When the user wants to optimize, improve, or increase conversions on any marketing page or form — including homepage, landing pages, pricing pages, feature pag"
+origin:
+  kind: forked
+  source_url: https://github.com/coreyhaines31/marketingskills/tree/main/skills/cro
+  upstream_commit: c21a984a56da10fb6085e6334f6f60929220a4da
+  imported_at: 2026-07-27
+  license: MIT
+targets: [claude, codex, gemini]
+conflicts: []
+order: standalone

@@ -1,0 +1,13 @@
+name: nothing-design
+version: upstream
+type: generate
+summary: "This skill should be used when the user explicitly says \"Nothing style\", \"Nothing design\", \"/nothing-design\", or directly asks to use/apply the Nothing design s"
+origin:
+  kind: forked
+  source_url: https://github.com/dominikmartn/nothing-design-skill/tree/main/nothing-design
+  upstream_commit: 74affbb786af098b18503467b205c10a7df30126
+  imported_at: 2026-07-27
+  license: MIT
+targets: [claude, codex, gemini]
+conflicts: []
+order: standalone

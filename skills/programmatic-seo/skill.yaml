@@ -1,0 +1,13 @@
+name: programmatic-seo
+version: upstream
+type: generate
+summary: "When the user wants to create SEO-driven pages at scale using templates and data. Also use when the user mentions \"programmatic SEO,\" \"template pages,\" \"pages a"
+origin:
+  kind: forked
+  source_url: https://github.com/coreyhaines31/marketingskills/tree/main/skills/programmatic-seo
+  upstream_commit: c21a984a56da10fb6085e6334f6f60929220a4da
+  imported_at: 2026-07-27
+  license: MIT
+targets: [claude, codex, gemini]
+conflicts: []
+order: standalone

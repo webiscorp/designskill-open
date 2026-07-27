@@ -1,0 +1,13 @@
+name: waza-check
+version: upstream
+type: generate
+summary: "\"Reviews code diffs, PRs, issue queues, release readiness, commits, pushes, publishing, and project audits. Use when users ask in any language for code review, "
+origin:
+  kind: forked
+  source_url: https://github.com/tw93/Waza/tree/main/skills/check
+  upstream_commit: 9c97ccb6d96e776bf814e27498d0afc0ed3d1e94
+  imported_at: 2026-07-27
+  license: MIT
+targets: [claude, codex, gemini]
+conflicts: []
+order: standalone

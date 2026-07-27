@@ -1,0 +1,13 @@
+name: web-design-engineer
+version: upstream
+type: generate
+summary: "\"Build or redesign polished browser-rendered visual artifacts with HTML/CSS/JavaScript/React: pages, dashboards, prototypes, slide decks, animations, UI mockups"
+origin:
+  kind: forked
+  source_url: https://github.com/ConardLi/garden-skills/tree/main/skills/web-design-engineer
+  upstream_commit: aaf9a82f5efd73e87cc0998edc398e75bfc35901
+  imported_at: 2026-07-27
+  license: MIT
+targets: [claude, codex, gemini]
+conflicts: []
+order: standalone

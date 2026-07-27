@@ -1,0 +1,13 @@
+name: hallmark
+version: upstream
+type: generate
+summary: "\"Anti-AI-slop design skill for greenfield pages, audits, redesigns, and design extraction from URLs or screenshots. Use when the user asks to build a new app or"
+origin:
+  kind: forked
+  source_url: https://github.com/Nutlope/hallmark/tree/main/skills/hallmark
+  upstream_commit: aeb42fb354ff4efa36ab475773a082315a3af2ce
+  imported_at: 2026-07-27
+  license: MIT
+targets: [claude, codex, gemini]
+conflicts: []
+order: standalone

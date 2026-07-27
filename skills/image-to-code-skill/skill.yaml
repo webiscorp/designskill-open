@@ -1,0 +1,13 @@
+name: image-to-code-skill
+version: upstream
+type: generate
+summary: "Elite website image-to-code skill for Codex. For visually important web tasks, it must first generate the design image(s) itself, deeply analyze them, then impl"
+origin:
+  kind: forked
+  source_url: https://github.com/Leonxlnx/taste-skill/tree/main/skills/image-to-code-skill
+  upstream_commit: e988add20dab0fa97d7a76781c48961c8184288e
+  imported_at: 2026-07-27
+  license: MIT
+targets: [claude, codex, gemini]
+conflicts: []
+order: standalone

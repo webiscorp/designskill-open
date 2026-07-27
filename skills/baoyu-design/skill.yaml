@@ -1,0 +1,13 @@
+name: baoyu-design
+version: upstream
+type: generate
+summary: ">-"
+origin:
+  kind: forked
+  source_url: https://github.com/JimLiu/baoyu-design/tree/main/skills/baoyu-design
+  upstream_commit: d4a95c4cf9fc5d8333188103909cf7817db28dbe
+  imported_at: 2026-07-27
+  license: MIT
+targets: [claude, codex, gemini]
+conflicts: []
+order: standalone

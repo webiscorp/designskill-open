@@ -1,0 +1,13 @@
+name: brandkit
+version: upstream
+type: generate
+summary: "Premium brand-kit image generation skill for creating high-end brand-guidelines boards, logo systems, identity decks, and visual-world presentations. Trained fo"
+origin:
+  kind: forked
+  source_url: https://github.com/Leonxlnx/taste-skill/tree/main/skills/brandkit
+  upstream_commit: e988add20dab0fa97d7a76781c48961c8184288e
+  imported_at: 2026-07-27
+  license: MIT
+targets: [claude, codex, gemini]
+conflicts: []
+order: standalone

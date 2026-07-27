@@ -1,0 +1,13 @@
+name: onboarding
+version: upstream
+type: generate
+summary: "When the user wants to optimize post-signup onboarding, user activation, first-run experience, or time-to-value. Also use when the user mentions \"onboarding flo"
+origin:
+  kind: forked
+  source_url: https://github.com/coreyhaines31/marketingskills/tree/main/skills/onboarding
+  upstream_commit: c21a984a56da10fb6085e6334f6f60929220a4da
+  imported_at: 2026-07-27
+  license: MIT
+targets: [claude, codex, gemini]
+conflicts: []
+order: standalone
