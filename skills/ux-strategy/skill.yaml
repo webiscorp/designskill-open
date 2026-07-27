@@ -1,0 +1,13 @@
+name: ux-strategy
+version: upstream
+type: generate
+summary: "Connect design decisions to business outcomes through competitive analysis, opportunity mapping, Jobs to Be Done, outcome-driven discovery, value proposition de"
+origin:
+  kind: forked
+  source_url: https://github.com/cuellarfr/design-skills/tree/main/ux-strategy
+  upstream_commit: b4283763053760b079485a8956aac96f7910da02
+  imported_at: 2026-07-27
+  license: MIT
+targets: [claude, codex, gemini]
+conflicts: []
+order: standalone

@@ -1,0 +1,13 @@
+name: mcp-builder
+version: upstream
+type: generate
+summary: "Guide for creating high-quality MCP (Model Context Protocol) servers that enable LLMs to interact with external services through well-designed tools. Use when b"
+origin:
+  kind: forked
+  source_url: https://github.com/anthropics/skills/tree/main/skills/mcp-builder
+  upstream_commit: b29e7cf65e5cb78a5ac33d582270551bc74a14eb
+  imported_at: 2026-07-27
+  license: Apache-2.0
+targets: [claude, codex, gemini]
+conflicts: []
+order: standalone

@@ -1,0 +1,13 @@
+name: ux-research
+version: upstream
+type: generate
+summary: "Plan, conduct, and analyze UX research using proven methodologies. Use when planning user research, writing interview scripts, creating test plans, recruiting p"
+origin:
+  kind: forked
+  source_url: https://github.com/cuellarfr/design-skills/tree/main/ux-research
+  upstream_commit: b4283763053760b079485a8956aac96f7910da02
+  imported_at: 2026-07-27
+  license: MIT
+targets: [claude, codex, gemini]
+conflicts: []
+order: standalone

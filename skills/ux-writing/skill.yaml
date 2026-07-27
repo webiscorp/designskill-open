@@ -1,0 +1,13 @@
+name: ux-writing
+version: upstream
+type: generate
+summary: "Create user-centered, accessible interface copy (microcopy) for digital products including buttons, labels, error messages, notifications, forms, onboarding, em"
+origin:
+  kind: forked
+  source_url: https://github.com/cuellarfr/design-skills/tree/main/ux-writing
+  upstream_commit: b4283763053760b079485a8956aac96f7910da02
+  imported_at: 2026-07-27
+  license: MIT
+targets: [claude, codex, gemini]
+conflicts: []
+order: standalone

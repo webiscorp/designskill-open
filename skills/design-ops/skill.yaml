@@ -1,0 +1,13 @@
+name: design-ops
+version: upstream
+type: generate
+summary: "Run design sprints, manage handoff, establish team rituals, documentation standards, and design QA processes. Covers the operational side of design — how teams "
+origin:
+  kind: forked
+  source_url: https://github.com/cuellarfr/design-skills/tree/main/design-ops
+  upstream_commit: b4283763053760b079485a8956aac96f7910da02
+  imported_at: 2026-07-27
+  license: MIT
+targets: [claude, codex, gemini]
+conflicts: []
+order: standalone
