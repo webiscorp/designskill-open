@@ -1,0 +1,11 @@
+name: visual-qa
+version: 1.4.0
+type: review
+summary: "Visual inspection pass — layout, contrast, and console errors"
+origin:
+  kind: first_party
+  source_url: https://github.com/webiscorp/designskill-open/tree/main/skills/visual-qa
+  license: MIT
+targets: [claude, codex, gemini]
+conflicts: []
+order: standalone
