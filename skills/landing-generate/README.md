@@ -2,7 +2,7 @@
 
 > Generate complete landing pages with consistent structure and tone
 
-**Category:** Generate · **License:** MIT · **Version:** 2.0.0
+**Category:** Generate · **License:** MIT · **Version:** 1.0.0
 **Tags:** `Landing` `Generate` `Structure`
 
 ## What it does
@@ -26,9 +26,7 @@ First-party skill by [WEBIS](https://webis.co.kr) — maintained in this reposit
 
 | Version | Date | Note |
 |---|---|---|
-| 1.0.0 | 2026-07-01 | Initial release |
-| 1.1.0 | 2026-07-10 | Added CTA rules & section rhythm (80–120px) |
-| 2.0.0 | 2026-07-23 | Input contract (brand/tone/sections) added; no co-injection with redesign skills |
+| 1.0.0 | 2026-07-27 | Initial release |
 
 ---
 
@@ -38,7 +36,7 @@ First-party skill by [WEBIS](https://webis.co.kr) — maintained in this reposit
 
 그럴듯하지만 비어 있는 랜딩이 아니라 목적이 분명한 랜딩을 만드는 생성 스킬입니다. Claude·Codex·Gemini에 그대로 주입할 수 있습니다.
 
-- 분류: 생성 · 라이선스: MIT · 버전: 2.0.0
+- 분류: 생성 · 라이선스: MIT · 버전: 1.0.0
 - 태그: `랜딩` `생성` `Tailwind`
 - 사용법: [SKILL.md](SKILL.md)를 받아 에이전트에 등록 — [주입 가이드](https://designskill.dev/help/injecting-skills)
 - 웹이즈 자체 제작 스킬
@@ -47,8 +45,6 @@ First-party skill by [WEBIS](https://webis.co.kr) — maintained in this reposit
 
 | 버전 | 날짜 | 내용 |
 |---|---|---|
-| 1.0.0 | 2026-07-01 | 최초 공개 |
-| 1.1.0 | 2026-07-10 | CTA 규칙·섹션 리듬(80–120px) 추가 |
-| 2.0.0 | 2026-07-23 | 입력 계약(brand/tone/sections) 도입, 재디자인 스킬과 동시 주입 금지 명문화 |
+| 1.0.0 | 2026-07-27 | 최초 공개 |
 
 <sub>Generated & served by [DesignSkill](https://designskill.dev)</sub>
