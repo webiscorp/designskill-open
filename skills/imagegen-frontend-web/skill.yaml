@@ -1,5 +1,5 @@
 name: imagegen-frontend-web
-version: upstream
+version: 1.0.0
 type: generate
 summary: "Elite frontend image-direction skill for generating premium, conversion-aware website design references. CRITICAL OUTPUT RULE — generate ONE separate horizontal"
 origin:

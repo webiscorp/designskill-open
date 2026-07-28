@@ -1,5 +1,5 @@
 name: empathy-map
-version: upstream
+version: 1.0.0
 type: generate
 summary: "Build a 4-quadrant empathy map (Says, Thinks, Does, Feels) to synthesize user research into actionable insights. Use when you need to quickly capture and share "
 origin:

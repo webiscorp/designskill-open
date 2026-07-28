@@ -1,5 +1,5 @@
 name: taste-skill
-version: upstream
+version: 1.0.0
 type: generate
 summary: "Anti-slop frontend skill for landing pages, portfolios, and redesigns. The agent reads the brief, infers the right design direction, and ships interfaces that d"
 origin:

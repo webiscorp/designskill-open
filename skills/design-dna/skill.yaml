@@ -1,5 +1,5 @@
 name: design-dna
-version: upstream
+version: 1.0.0
 type: extract
 summary: "Extract, define, and apply design DNA: token system, qualitative style, and visual effects from reference images/URLs"
 origin:

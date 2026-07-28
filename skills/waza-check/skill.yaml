@@ -1,5 +1,5 @@
 name: waza-check
-version: upstream
+version: 1.0.0
 type: generate
 summary: "\"Reviews code diffs, PRs, issue queues, release readiness, commits, pushes, publishing, and project audits. Use when users ask in any language for code review, "
 origin:

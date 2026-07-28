@@ -1,5 +1,5 @@
 name: beautiful-article
-version: upstream
+version: 1.0.0
 type: generate
 summary: "\"把用户提供的素材（网页 URL / PDF / DOCX / Markdown / 纯文本 / 截图 / 粘贴材料）编辑、设计成一篇美丽的、可离线打开和分享的**单文件 HTML 网页文章**。基于 reacticle 组件协议：不手写裸 HTML/CSS，而用语义组件 + 受主题约束的 Raw 自由层；按 sour"
 origin:

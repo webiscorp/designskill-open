@@ -1,5 +1,5 @@
 name: extract-design-system
-version: upstream
+version: 1.0.0
 type: extract
 summary: "Extract design primitives from a public website and generate starter token files for your project."
 origin:

@@ -1,5 +1,5 @@
 name: nielsen-heuristics
-version: upstream
+version: 1.0.0
 type: generate
 summary: "Jakob Nielsen's 10 usability heuristics — the bedrock checklist for evaluating any interface. Use when running a heuristic evaluation, reviewing a screen for us"
 origin:

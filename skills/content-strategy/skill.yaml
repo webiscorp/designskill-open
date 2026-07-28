@@ -1,5 +1,5 @@
 name: content-strategy
-version: upstream
+version: 1.0.0
 type: generate
 summary: "When the user wants to plan a content strategy, decide what content to create, or figure out what topics to cover. Also use when the user mentions \"content stra"
 origin:

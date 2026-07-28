@@ -1,5 +1,5 @@
 name: gestalt-principles
-version: upstream
+version: 1.0.0
 type: generate
 summary: "Gestalt principles of grouping — proximity, similarity, common region, continuity, closure, figure/ground, common fate, prägnanz, uniform connectedness. The vis"
 origin:

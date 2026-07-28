@@ -1,5 +1,5 @@
 name: schema
-version: upstream
+version: 1.0.0
 type: generate
 summary: "When the user wants to add, fix, or optimize schema markup and structured data on their site. Also use when the user mentions \"schema markup,\" \"structured data,"
 origin:

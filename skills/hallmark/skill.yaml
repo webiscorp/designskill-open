@@ -1,5 +1,5 @@
 name: hallmark
-version: upstream
+version: 1.0.0
 type: generate
 summary: "\"Anti-AI-slop design skill for greenfield pages, audits, redesigns, and design extraction from URLs or screenshots. Use when the user asks to build a new app or"
 origin:

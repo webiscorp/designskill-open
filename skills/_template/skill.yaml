@@ -2,7 +2,7 @@
 name: my-skill-name            # kebab-case, 폴더명과 동일
 version: 0.1.0
 type: generate                 # generate | review | extract | transform
-summary: 한 줄 요약
+summary: One-line summary of what this skill produces
 origin:
   kind: first_party            # first_party | forked
   source_url:                  # forked면 필수

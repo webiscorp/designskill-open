@@ -1,5 +1,5 @@
 name: mcp-builder
-version: upstream
+version: 1.0.0
 type: generate
 summary: "Guide for creating high-quality MCP (Model Context Protocol) servers that enable LLMs to interact with external services through well-designed tools. Use when b"
 origin:

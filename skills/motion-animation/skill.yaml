@@ -1,5 +1,5 @@
 name: motion-animation
-version: upstream
+version: 1.0.0
 type: generate
 summary: "Interface motion and animation — the 12 principles of animation applied to UI, easing and spring physics (ease-out entrances / ease-in exits), the FLIP techniqu"
 origin:

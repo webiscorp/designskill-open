@@ -1,5 +1,5 @@
 name: interaction-design
-version: upstream
+version: 1.0.0
 type: generate
 summary: "Design meaningful interactions, microinteractions, animations, state machines, gesture patterns, error prevention, and product behavior. Specify how products re"
 origin:

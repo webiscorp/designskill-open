@@ -1,5 +1,5 @@
 name: web-asset-generator
-version: upstream
+version: 1.0.0
 type: generate
 summary: "Generate web assets including favicons, app icons (PWA), and social media meta images (Open Graph) for Facebook, Twitter, WhatsApp, and LinkedIn. Use when users"
 origin:

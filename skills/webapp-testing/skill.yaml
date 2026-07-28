@@ -1,5 +1,5 @@
 name: webapp-testing
-version: upstream
+version: 1.0.0
 type: generate
 summary: "Toolkit for interacting with and testing local web applications using Playwright. Supports verifying frontend functionality, debugging UI behavior, capturing br"
 origin:

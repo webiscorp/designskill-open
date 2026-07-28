@@ -1,5 +1,5 @@
 name: accessibility-audit
-version: upstream
+version: 1.0.0
 type: review
 summary: "Conduct accessibility audits against WCAG 2.2 guidelines. Evaluate pages, components, and flows for conformance at A, AA, and AAA levels. Identify issues, asses"
 origin:

@@ -1,5 +1,5 @@
 name: site-architecture
-version: upstream
+version: 1.0.0
 type: generate
 summary: "When the user wants to plan, map, or restructure their website's page hierarchy, navigation, URL structure, or internal linking. Also use when the user mentions"
 origin:

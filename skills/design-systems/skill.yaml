@@ -1,5 +1,5 @@
 name: design-systems
-version: upstream
+version: 1.0.0
 type: generate
 summary: "Build, document, and maintain design systems with design tokens, component specifications, pattern libraries, naming conventions, and governance processes. Cond"
 origin:

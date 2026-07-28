@@ -1,5 +1,5 @@
 name: logo-design
-version: upstream
+version: 1.0.0
 type: generate
 summary: "\"Generate logo variants for a brand, producing multiple production-grade marks across different architectures (wordmark, lockup, symbol-only, letterform-as-symb"
 origin:

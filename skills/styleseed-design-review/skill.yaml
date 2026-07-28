@@ -1,5 +1,5 @@
 name: styleseed-design-review
-version: upstream
+version: 1.0.0
 type: review
 summary: "Reviews UI/frontend code and tells you exactly why it \"looks AI-generated\" — then how to fix it. Use it when a React/Tailwind/HTML interface looks off, generic,"
 origin:

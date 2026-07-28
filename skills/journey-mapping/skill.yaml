@@ -1,5 +1,5 @@
 name: journey-mapping
-version: upstream
+version: 1.0.0
 type: generate
 summary: "Create customer journey maps, service blueprints, experience maps, empathy maps, and other alignment diagrams. Guides diagram type selection, content structure,"
 origin:

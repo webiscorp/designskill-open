@@ -1,5 +1,5 @@
 name: design-critique
-version: upstream
+version: 1.0.0
 type: review
 summary: "Evaluate UI designs against usability heuristics, UX laws, interaction patterns, interaction design principles, information architecture, and content quality. C"
 origin:

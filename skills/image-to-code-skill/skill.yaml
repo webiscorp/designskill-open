@@ -1,5 +1,5 @@
 name: image-to-code-skill
-version: upstream
+version: 1.0.0
 type: generate
 summary: "Elite website image-to-code skill for Codex. For visually important web tasks, it must first generate the design image(s) itself, deeply analyze them, then impl"
 origin:

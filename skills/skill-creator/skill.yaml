@@ -1,5 +1,5 @@
 name: skill-creator
-version: upstream
+version: 1.0.0
 type: generate
 summary: "Create new skills, modify and improve existing skills, and measure skill performance. Use when users want to create a skill from scratch, edit, or optimize an e"
 origin:

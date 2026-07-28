@@ -1,5 +1,5 @@
 name: ux-writing
-version: upstream
+version: 1.0.0
 type: generate
 summary: "Create user-centered, accessible interface copy (microcopy) for digital products including buttons, labels, error messages, notifications, forms, onboarding, em"
 origin:

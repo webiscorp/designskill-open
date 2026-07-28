@@ -1,5 +1,5 @@
 name: output-skill
-version: upstream
+version: 1.0.0
 type: generate
 summary: "Overrides default LLM truncation behavior. Enforces complete code generation, bans placeholder patterns, and handles token-limit splits cleanly. Apply to any ta"
 origin:

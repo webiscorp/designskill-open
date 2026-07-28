@@ -1,5 +1,5 @@
 name: handoff-spec
-version: upstream
+version: 1.0.0
 type: generate
 summary: "Create developer handoff specifications with measurements, behaviors, assets, and edge cases."
 origin:

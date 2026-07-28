@@ -1,5 +1,5 @@
 name: anydesign
-version: upstream
+version: 1.0.0
 type: extract
 summary: "\"Analyze images, websites, and Figma files to extract their design and generate a `design.md` with token system, component inventory, and reconstruction notes. "
 origin:

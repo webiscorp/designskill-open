@@ -1,5 +1,5 @@
 name: brand-guidelines
-version: upstream
+version: 1.0.0
 type: generate
 summary: "Applies Anthropic's official brand colors and typography to any sort of artifact that may benefit from having Anthropic's look-and-feel. Use it when brand color"
 origin:

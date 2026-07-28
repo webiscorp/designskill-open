@@ -1,5 +1,5 @@
 name: minimalist-skill
-version: upstream
+version: 1.0.0
 type: generate
 summary: "Clean editorial-style interfaces. Warm monochrome palette, typographic contrast, flat bento grids, muted pastels. No gradients, no heavy shadows."
 origin:

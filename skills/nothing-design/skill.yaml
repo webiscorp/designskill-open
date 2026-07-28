@@ -1,5 +1,5 @@
 name: nothing-design
-version: upstream
+version: 1.0.0
 type: generate
 summary: "This skill should be used when the user explicitly says \"Nothing style\", \"Nothing design\", \"/nothing-design\", or directly asks to use/apply the Nothing design s"
 origin:

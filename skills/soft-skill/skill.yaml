@@ -1,5 +1,5 @@
 name: soft-skill
-version: upstream
+version: 1.0.0
 type: generate
 summary: "Teaches the AI to design like a high-end agency. Defines the exact fonts, spacing, shadows, card structures, and animations that make a website feel expensive. "
 origin:

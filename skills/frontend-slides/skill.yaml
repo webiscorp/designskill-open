@@ -1,5 +1,5 @@
 name: frontend-slides
-version: upstream
+version: 1.0.0
 type: generate
 summary: "Create stunning, animation-rich HTML presentations from scratch or by converting PowerPoint files. Use when the user wants to build a presentation, convert a PP"
 origin:

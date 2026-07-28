@@ -1,5 +1,5 @@
 name: cognitive-load
-version: upstream
+version: 1.0.0
 type: generate
 summary: "Cognitive Load Theory for interfaces — intrinsic (task difficulty), extraneous (poor-design overhead), and germane (useful mental-model building) load. Use when"
 origin:

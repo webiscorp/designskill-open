@@ -1,5 +1,5 @@
 name: waza-write
-version: upstream
+version: 1.0.0
 type: generate
 summary: "\"Rewrites and polishes prose in Chinese or English, removes AI-like wording, and reviews product localization copy while preserving intent for drafts, docs, rel"
 origin:

@@ -1,5 +1,5 @@
 name: css-architecture
-version: upstream
+version: 1.0.0
 type: generate
 summary: "CSS and styling architecture — scaling methodologies (BEM, ITCSS, CUBE CSS) and fluid/responsive technique (mobile-first, clamp() fluid type/space, container qu"
 origin:

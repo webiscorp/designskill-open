@@ -1,5 +1,5 @@
 name: figma-to-code
-version: upstream
+version: 1.0.0
 type: transform
 summary: "Generate production-ready React/Next.js code from Figma designs. Instructs proper Figma MCP tool usage, component reuse strategies, and variant mapping. **CRITI"
 origin:

@@ -1,5 +1,5 @@
 name: ai-seo
-version: upstream
+version: 1.0.0
 type: generate
 summary: "\"When the user wants to optimize content for AI search engines, get cited by LLMs, or appear in AI-generated answers. Also use when the user mentions 'AI SEO,' "
 origin:

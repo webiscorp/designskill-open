@@ -1,5 +1,5 @@
 name: swiftui-design
-version: upstream
+version: 1.0.0
 type: generate
 summary: "SwiftUI frontend visual design skill. Creates beautiful, distinctive iOS/macOS interfaces that avoid generic AI slop patterns. Covers design direction, layout s"
 origin:

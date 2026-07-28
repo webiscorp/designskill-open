@@ -1,5 +1,5 @@
 name: design-qa-checklist
-version: upstream
+version: 1.0.0
 type: generate
 summary: "Create QA checklists for verifying design implementation accuracy."
 origin:

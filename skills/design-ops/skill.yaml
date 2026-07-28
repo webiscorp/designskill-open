@@ -1,5 +1,5 @@
 name: design-ops
-version: upstream
+version: 1.0.0
 type: generate
 summary: "Run design sprints, manage handoff, establish team rituals, documentation standards, and design QA processes. Covers the operational side of design — how teams "
 origin:

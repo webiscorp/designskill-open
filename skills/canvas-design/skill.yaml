@@ -1,5 +1,5 @@
 name: canvas-design
-version: upstream
+version: 1.0.0
 type: generate
 summary: "Create beautiful visual art in .png and .pdf documents using design philosophy. You should use this skill when the user asks to create a poster, piece of art, d"
 origin:
