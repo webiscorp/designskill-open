@@ -14,7 +14,7 @@
 ## Skills
 
 <!-- SKILLS:START -->
-71 skills.
+75 skills.
 
 | Name | Type | Version | Summary |
 |---|---|---|---|
@@ -76,6 +76,10 @@
 | [swiftui-design](skills/swiftui-design/) | generate | 1.0.0 | SwiftUI visual design for iOS/macOS with anti-AI-slop rules (forked · MIT · wholiver/swiftui-design-skill) |
 | [taste-skill](skills/taste-skill/) | generate | 1.0.0 | Reads the brief, infers direction, and ships non-templated interfaces (forked · MIT · Leonxlnx/taste-skill) |
 | [theme-factory](skills/theme-factory/) | transform | 1.0.0 | Apply 10 preset font/color themes to slides, docs, and HTML artifacts (forked · Apache-2.0 · anthropics/skills) |
+| [ui-craft](skills/ui-craft/) | generate | upstream | \"Use for UI design and implementation work to avoid generic AI-looking interfaces. Provides anti-slop rules, a required discovery phase before coding, and guida (forked · MIT · educlopez/ui-craft) |
+| [ui-craft-dense-dashboard](skills/ui-craft-dense-dashboard/) | generate | upstream | \"Dense dashboard / admin / Bloomberg / Retool / data-heavy internal tools. Locked knobs: CRAFT=7, MOTION=3, DENSITY=9. IBM Plex + mono numbers, semantic palette (forked · MIT · educlopez/ui-craft) |
+| [ui-craft-editorial](skills/ui-craft-editorial/) | generate | upstream | \"Editorial / magazine / long-form / Medium / Substack / content-heavy UIs. Locked knobs: CRAFT=9, MOTION=4, DENSITY=3. Serif display + humanist body, wide readi (forked · MIT · educlopez/ui-craft) |
+| [ui-craft-minimal](skills/ui-craft-minimal/) | generate | upstream | \"Minimal / clean / Linear / Notion / Vercel / whitespace-heavy UIs. Locked knobs: CRAFT=8, MOTION=3, DENSITY=2. Monochrome + one accent, Inter/Geist, hairline b (forked · MIT · educlopez/ui-craft) |
 | [ux-research](skills/ux-research/) | generate | 1.0.0 | Research planning, interview scripts, and qualitative analysis (forked · MIT · cuellarfr/design-skills) |
 | [ux-strategy](skills/ux-strategy/) | generate | 1.0.0 | Competitive analysis, JTBD, value proposition, and UX metrics (forked · MIT · cuellarfr/design-skills) |
 | [ux-writing](skills/ux-writing/) | generate | 1.0.0 | Writing interface copy for buttons, errors, onboarding, and empty states (forked · MIT · cuellarfr/design-skills) |

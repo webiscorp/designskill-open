@@ -1,0 +1,13 @@
+name: ui-craft-dense-dashboard
+version: upstream
+type: generate
+summary: "\"Dense dashboard / admin / Bloomberg / Retool / data-heavy internal tools. Locked knobs: CRAFT=7, MOTION=3, DENSITY=9. IBM Plex + mono numbers, semantic palette"
+origin:
+  kind: forked
+  source_url: https://github.com/educlopez/ui-craft/tree/main/skills/ui-craft-dense-dashboard
+  upstream_commit: 773c3ee4673fde3f7ff6f61bda3b2c5741221865
+  imported_at: 2026-07-31
+  license: MIT
+targets: [claude, codex, gemini]
+conflicts: []
+order: standalone

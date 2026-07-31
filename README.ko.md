@@ -14,7 +14,7 @@ English guide: [README.md](README.md)
 ## Skills
 
 <!-- SKILLS:START -->
-71개 스킬.
+75개 스킬.
 
 | 이름 | 유형 | 버전 | 요약 |
 |---|---|---|---|
@@ -76,6 +76,10 @@ English guide: [README.md](README.md)
 | [swiftui-design](skills/swiftui-design/) | 생성 | 1.0.0 | iOS/macOS SwiftUI 시각 디자인 — AI 슬롭 방지 규칙과 디자인 방향 (forked · MIT · wholiver/swiftui-design-skill) |
 | [taste-skill](skills/taste-skill/) | 생성 | 1.0.0 | 브리프를 읽고 방향을 잡아 템플릿 티 안 나게 구현 (forked · MIT · Leonxlnx/taste-skill) |
 | [theme-factory](skills/theme-factory/) | 변환 | 1.0.0 | 슬라이드·문서·HTML에 10종 프리셋 폰트/컬러 테마 적용 (forked · Apache-2.0 · anthropics/skills) |
+| [ui-craft](skills/ui-craft/) | 생성 | upstream | \"Use for UI design and implementation work to avoid generic AI-looking interfaces. Provides anti-slop rules, a required discovery phase before coding, and guida (forked · MIT · educlopez/ui-craft) |
+| [ui-craft-dense-dashboard](skills/ui-craft-dense-dashboard/) | 생성 | upstream | \"Dense dashboard / admin / Bloomberg / Retool / data-heavy internal tools. Locked knobs: CRAFT=7, MOTION=3, DENSITY=9. IBM Plex + mono numbers, semantic palette (forked · MIT · educlopez/ui-craft) |
+| [ui-craft-editorial](skills/ui-craft-editorial/) | 생성 | upstream | \"Editorial / magazine / long-form / Medium / Substack / content-heavy UIs. Locked knobs: CRAFT=9, MOTION=4, DENSITY=3. Serif display + humanist body, wide readi (forked · MIT · educlopez/ui-craft) |
+| [ui-craft-minimal](skills/ui-craft-minimal/) | 생성 | upstream | \"Minimal / clean / Linear / Notion / Vercel / whitespace-heavy UIs. Locked knobs: CRAFT=8, MOTION=3, DENSITY=2. Monochrome + one accent, Inter/Geist, hairline b (forked · MIT · educlopez/ui-craft) |
 | [ux-research](skills/ux-research/) | 생성 | 1.0.0 | 리서치 설계·인터뷰 스크립트·정성 데이터 분석 (forked · MIT · cuellarfr/design-skills) |
 | [ux-strategy](skills/ux-strategy/) | 생성 | 1.0.0 | 경쟁 분석·JTBD·가치 제안·UX 지표로 방향 설정 (forked · MIT · cuellarfr/design-skills) |
 | [ux-writing](skills/ux-writing/) | 생성 | 1.0.0 | 버튼·오류 메시지·온보딩 등 인터페이스 문구 작성 (forked · MIT · cuellarfr/design-skills) |
