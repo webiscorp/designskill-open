@@ -1,0 +1,11 @@
+name: landing-generate
+version: 2.0.0
+type: generate
+summary: "Generate complete landing pages with consistent structure and tone"
+origin:
+  kind: first_party
+  source_url: https://github.com/webiscorp/designskill-open/tree/main/skills/landing-generate
+  license: MIT
+targets: [claude, codex, gemini]
+conflicts: []
+order: standalone

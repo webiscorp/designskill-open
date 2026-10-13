@@ -1,0 +1,13 @@
+.DS_Store
+.webis/
+.okehane/
+AGENTS.md
+CLAUDE.md
+GEMINI.md
+docs/
+work/
+coordination/
+.secrets/
+.env
+.env.*
+node_modules/
